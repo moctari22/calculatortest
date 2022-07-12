@@ -22,7 +22,7 @@ public class Calculator {
 		}
 	}
 
-	public void longCalculationz() {
+	public void longCalculationx() {
 		try {
 			Thread.sleep(2000);
 		} catch (final InterruptedException e) {
